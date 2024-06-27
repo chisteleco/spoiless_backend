@@ -9,6 +9,6 @@
     "skipLibCheck": true, 
     "forceConsistentCasingInFileNames": true 
   },
-  "include": ["src//*.ts"], 
+  "include": ["src//*.ts", "index.ts", "src/Routes/books.ts", "src/Routes/tvshows.ts"], 
   "exclude": ["node_modules"]
  }
